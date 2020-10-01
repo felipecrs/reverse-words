@@ -1,3 +1,3 @@
-import reverseWords from "https://deno.land/x/felipecrs_reverse_words/mod.ts";
+import reverseWords from "./mod.ts";
 
 console.log(reverseWords("This is fun"));
